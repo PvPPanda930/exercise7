@@ -1,0 +1,19 @@
+th ,td{
+    border: 1px solid; 
+    width:200px;
+    height:25px;
+    
+}
+
+td{
+    font-family: 'Courier New'
+}
+
+th{
+    font-family: 'Gill Sans', 'Gill Sans MT', 'Trebuchet MS';
+}
+
+table{
+    border-color: black ;
+    border: 1px solid;
+}
